@@ -86,7 +86,7 @@ Explore how Azilen brings applied GenAI to enterprises:
 
 ---
 
-## 📝** Read the Full Blog**
+## 📝 **Read the Full Blog**
 
 Dive deeper into the concept, architecture, and workshop demo:
 ➡️ [AI Career Assistance](https://www.azilen.com/blog/ai-career-assistant/)
