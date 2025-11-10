@@ -56,72 +56,51 @@ Core Components:
 
 ---
 
-## 🧠 Core Prompt Templates
+## 💡 **Key Features**
 
-**Skill Profile Creation**
-```plaintext
-You are an AI assistant that builds an Initial Skill Profile for employees.
-Inputs: timelog JSON + CV document
-Tasks: analyze, normalize, deduplicate, and output structured JSON
+**Speech-to-Insight Workflow:** Project managers speak, the system builds structured project intelligence.
 
-**Learning Roadmap**
+**Graph-based Skill Representation:** Maps relationships between people, projects, and technologies.
 
-You are an expert learning path architect.
-Create a 10-step roadmap including titles, descriptions, time estimates, and resources.
+**AI-Assisted Learning:** Personalized next-skill recommendations and guided learning paths.
 
-**Peer & Expert Matching**
-
-You are an AI matchmaking assistant for a learning platform.
-Rank peers by match quality for someone learning a given technology.
+**Collaborative Growth:** Peer discovery and mentorship matching integrated with Microsoft Teams.
 
 ---
 
-## 💡 Key Features
-
-Speech-to-Insight Workflow: Project managers speak, the system builds structured project intelligence.
-
-Graph-based Skill Representation: Maps relationships between people, projects, and technologies.
-
-AI-Assisted Learning: Personalized next-skill recommendations and guided learning paths.
-
-Collaborative Growth: Peer discovery and mentorship matching integrated with Microsoft Teams.
-
----
-
-## 🧑‍💻 Contributors
+## 🧑‍💻 **Contributors**
 
 A big applause to the brilliant minds behind Career Assistant:
 
-Preksha Kharidia · Rahul Gogia · Rajesh Chaudhari · Rushabh Parikh · Shyama Shah · Vedansh Kamdar · Dipali Rangpariya · Jaydeep Akhani · Karan Chokshi · Karan Koradiya · Manthan Bhavsar · Mohit Kapadia · Nirmita Prajapati
+Vedansh Kamdar · Preksha Kharidia · Rahul Gogia · Rajesh Chaudhari · Rushabh Parikh · Shyama Shah · Dipali Rangpariya · Jaydeep Akhani · Karan Chokshi · Karan Koradiya · Manthan Bhavsar · Mohit Kapadia · Nirmita Prajapati
 
-## 🔗 Related Azilen Services
+## 🔗 **Related Azilen Services**
 
 Explore how Azilen brings applied GenAI to enterprises:
 
-AI Agent Development Services
+[AI Agent Development Services](https://www.azilen.com/ai-agents-development-services/)
 
-Generative AI Development Services
+[Generative AI Development Services](https://www.azilen.com/enterprise-practices/generative-ai-development/)
 
-Enterprise Data Engineering Solutions
+[Data & AI Services](https://www.azilen.com/data-and-ai/)
 
 ---
 
-## 📝 Read the Full Blog
+## 📝** Read the Full Blog**
 
 Dive deeper into the concept, architecture, and workshop demo:
-➡️ AI Career Assistance: Inside Our GenAI & Data Engineering Workshop
+➡️ [AI Career Assistance](https://www.azilen.com/blog/ai-career-assistant/)
 
 ---
 
-## ⚖️ License
+## ⚖️ **License**
 
 This repository is shared under the MIT License for educational and research purposes.
 Please attribute Azilen Technologies when referencing or adapting the content.
 
 ---
 
-## 🌐 About Azilen
+## 🌐 **About Azilen**
 
-Azilen Technologies
- partners with enterprises to design and build AI-driven product ecosystems, combining GenAI, data engineering, and human-centric design for measurable business transformation.
+Azilen Technologies partners with enterprises to design and build AI-driven product ecosystems, combining GenAI, Agentic AI, Data Engineering, MLOps, and human-centric design for measurable business transformation.
 
