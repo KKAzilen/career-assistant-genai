@@ -1,5 +1,3 @@
-Career Assistant — AI Career Intelligence by Azilen
-
 # 🧠 Career Assistant — AI Career Intelligence by Azilen
 
 **Career Assistant** is an AI-powered career development platform that builds intelligent skill profiles, personalized learning pathways, and collaborative connections using real-world project data.
