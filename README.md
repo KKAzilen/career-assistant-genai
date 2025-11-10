@@ -25,15 +25,7 @@ It integrates **Generative AI**, **Graph Databases (Neo4j)**, and **Data Pipelin
 
 ## 🧱 Architecture Overview
 
-CVs + Timesheets + PM Conversations
-↓
-GenAI Skill Engine
-↓
-Normalization + Deduplication
-↓
-GraphDB (Neo4j)
-↓
-Skill Graphs • Work Snippets • Learning Journeys
+CVs + Timesheets + PM Conversations ⟶ GenAI Skill Engine ⟶ Normalization + Deduplication ⟶ GraphDB (Neo4j) ⟶ Skill Graphs • Work Snippets • Learning Journeys
 
 Core Components:
 - **PM Tool → Work Snippet Generation:** Converts project manager voice summaries into structured project insights.
