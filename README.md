@@ -74,6 +74,8 @@ Create a 10-step roadmap including titles, descriptions, time estimates, and res
 You are an AI matchmaking assistant for a learning platform.
 Rank peers by match quality for someone learning a given technology.
 
+---
+
 ## 💡 Key Features
 
 Speech-to-Insight Workflow: Project managers speak, the system builds structured project intelligence.
@@ -83,6 +85,8 @@ Graph-based Skill Representation: Maps relationships between people, projects, a
 AI-Assisted Learning: Personalized next-skill recommendations and guided learning paths.
 
 Collaborative Growth: Peer discovery and mentorship matching integrated with Microsoft Teams.
+
+---
 
 ## 🧑‍💻 Contributors
 
@@ -100,15 +104,21 @@ Generative AI Development Services
 
 Enterprise Data Engineering Solutions
 
+---
+
 ## 📝 Read the Full Blog
 
 Dive deeper into the concept, architecture, and workshop demo:
 ➡️ AI Career Assistance: Inside Our GenAI & Data Engineering Workshop
 
+---
+
 ## ⚖️ License
 
 This repository is shared under the MIT License for educational and research purposes.
 Please attribute Azilen Technologies when referencing or adapting the content.
+
+---
 
 ## 🌐 About Azilen
 
