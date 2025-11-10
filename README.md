@@ -2,7 +2,7 @@
 
 **Career Assistant** is an AI-powered career development platform that builds intelligent skill profiles, personalized learning pathways, and collaborative connections using real-world project data.
 
-This repository complements our blog on [AI Career Assistance](https://www.azilen.com/blog/ai-career-assistant/) presented during Azilen’s **GenAI & Data Engineering Workshop**, where our team demonstrated how GenAI, Data Engineering, and GraphRAG can transform employee growth and learning.
+This repository complements our blog on [AI Career Assistant](https://www.azilen.com/blog/ai-career-assistant/) presented during Azilen’s **GenAI & Data Engineering Workshop**, where our team demonstrated how GenAI, Data Engineering, and GraphRAG can transform employee growth and learning.
 
 ---
 
@@ -87,7 +87,7 @@ Explore how Azilen brings applied GenAI to enterprises:
 ## 📝 **Read the Full Blog**
 
 Dive deeper into the concept, architecture, and workshop demo:
-➡️ [AI Career Assistance](https://www.azilen.com/blog/ai-career-assistant/)
+➡️ [AI Career Assistant](https://www.azilen.com/blog/ai-career-assistant/)
 
 ---
 
